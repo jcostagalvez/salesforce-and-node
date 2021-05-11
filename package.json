@@ -4,11 +4,12 @@
   "description": "Is a simple salesforce app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "jesus",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "heroku": "^7.53.1",
     "pg": "^8.6.0"
