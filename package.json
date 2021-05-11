@@ -1,0 +1,16 @@
+{
+  "name": "salesforceapp",
+  "version": "1.0.0",
+  "description": "Is a simple salesforce app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jesus",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "heroku": "^7.53.1",
+    "pg": "^8.6.0"
+  }
+}
